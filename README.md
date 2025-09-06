@@ -4,8 +4,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
@@ -31,9 +29,11 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-  - 🧪 Labs I’ve Completed:
+- 🔭 I’m currently working on... coming soon
+
+- 🌱 I’m currently learning Linux.
+
+- 🧪 Labs I’ve Completed:
 
     Credential Harvesting Simulation using SET on Kali Linux
     
