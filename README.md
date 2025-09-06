@@ -1,6 +1,6 @@
-## Hi there 👋
+## 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Keren Oduro and I'm a cybersecurity Analyst located in Virginia </h2>
 
 ###
 
@@ -29,7 +29,7 @@
 ###<!--
 **Ouka-8/Ouka-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -48,10 +48,5 @@ Here are some ideas to get you started:
     FedRAMP/NIST RMF Mock Authorization to Operate (ATO) documentation lab
 
     
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
