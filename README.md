@@ -1,52 +1,30 @@
-## 
+# 👋 Hi, I’m Keren O.
 
-<h2 align="left">Hi 👋! My name is Keren Oduro and I'm a cybersecurity Analyst located in Virginia </h2>
+💻 Cybersecurity Analyst 
 
-###
+I specialize in **federal cybersecurity compliance**, with hands-on experience in:  
+- 🛡️ Security Control Assessments (NIST 800-53, RMF)
+- Endpoint Hardening
+- 🔐 FedRAMP Authorization documentation (SSPs, SARs, POA&Ms)  
+- 🖥️ Linux security labs and incident response projects  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+## 🌟 Featured Projects
+- [🐧 Linux Beginner Commands](https://github.com/your-username/linux-beginner-commands) – Beginner-friendly Linux guide with cheatsheets, exercises, and scripts  
+- [📝 Incident Response Plan](link-to-repo) – NIST 800-53 aligned IR plan for healthcare orgs  
+- [☁️ FedRAMP Readiness Guide](link-to-repo) – Step-by-step guide for CSPs seeking authorization  
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-</div>
+## 📊 Skills
+- **Frameworks:** NIST RMF, FedRAMP, FISMA  
+- **Tools:** Splunk, Nessus, Kali Linux, Palo Alto, pfSense  
+- **Languages:** Bash, Python (beginner)  
 
-###<!--
-**Ouka-8/Ouka-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-
-
-- 🔭 I’m currently working on... coming soon
-
-- 🌱 I’m currently learning Linux.
-
-- 🧪 Labs I’ve Completed:
-
-    Credential Harvesting Simulation using SET on Kali Linux
-    
-    Honeypot Deployment for adversary emulation
-
-    OWASP ZAP Testing for common web vulnerabilities
-
-    pfSense Firewall Segmentation across multiple VMs
-
-    Forensic Analysis Project for local incident response
-
-    FedRAMP/NIST RMF Mock Authorization to Operate (ATO) documentation lab
-
-    
-- 
--->
+## 📫 Let’s Connect
+- 💼 LinkedIn: [linkedin.com/in/kerenoduro](https://linkedin.com/in/kerenoduro)  
+- ✍️ Blog: [medium.com/@kerenod4](https://medium.com/@kerenod4)  
+- 📧 Email: 
