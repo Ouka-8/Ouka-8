@@ -7,18 +7,18 @@ I specialize in **cybersecurity engineering**, with hands-on experience in:
 - Endpoint Hardening
 - Security Control Assessments (NIST 800-53, RMF)
 - FedRAMP Authorization documentation (SSPs, SARs, POA&Ms)
--
--
--
+
+
+
 
 - In my spare time:
-- I spin up Linux VMs and partake in various cybersecurity projects  
+- I spin up Linux VMs(Ubuntu, RHEL and Kali Linux) and  and partake in various cybersecurity projects  
 
 ---
 
 ## 🌟 Featured Projects
 - [🐧 Linux Beginner Commands](https://github.com/your-username/linux-beginner-commands) – Beginner-friendly Linux guide with cheatsheets, exercises, and scripts  
-
+- (https://medium.com/@kerenod4/credential-harvesting-using-kali-linux-credential-harvesting-using-set-social-engineering-c5351f64a439)- Credential Harvesting using Kali Linux: Credential Harvesting Using SET (Social Engineering Toolkit)
 
 ---
 
