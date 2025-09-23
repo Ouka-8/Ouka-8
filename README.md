@@ -8,11 +8,11 @@ I specialize in **cybersecurity engineering**, with hands-on experience in:
 - Security Control Assessments (NIST 800-53, RMF)
 - FedRAMP Authorization documentation (SSPs, SARs, POA&Ms)
 
+SIEM Tools: (Splunk, ArcSight, LogRhythm, Wireshark), Firewalls, Routers, Switches, VPN, Microsoft Azure, Active Directory, SharePoint, Salesforce, Cisco Routers and
+Switches, AlienVault, Wireshark, NMAP, Zenmap, Shodan, Geo IP Lookup tool, Nessus, Netcraft, Maltego, Cain and Abel, Recon-ng, AirCrack, John the Ripper, Ettercap
 
+Cybersecurity Knowledge: Vulnerability Assessments, Forensic Analysis, Threat Hunting, Incident Response, System Logs Analysis, OSINT, Vulnerability Management, Risk Management, Risk Analysis
 
-
-- In my spare time:
-- I spin up Linux VMs(Ubuntu, RHEL and Kali Linux) and  and partake in various cybersecurity projects  
 
 ---
 
